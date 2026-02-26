@@ -35,6 +35,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Draft [RACI Matrix](octoacme-raci-and-decision-log.md#raci-matrix) for core activities
+- [ ] Open [Decision Log](octoacme-raci-and-decision-log.md#decision-log) and record go/no-go decision
 
 ## Decision Gate
 Move to planning when:

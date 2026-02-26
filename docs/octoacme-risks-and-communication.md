@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+> For significant decisions made during risk response, record them in the [Decision Log](octoacme-raci-and-decision-log.md#decision-log).
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood

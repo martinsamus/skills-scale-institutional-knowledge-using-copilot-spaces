@@ -34,6 +34,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Record significant risk decisions in the [Decision Log](octoacme-raci-and-decision-log.md#decision-log)
 
 ## Planning Checklist
 - [ ] Project kickoff held
@@ -41,3 +42,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] [RACI Matrix](octoacme-raci-and-decision-log.md#raci-matrix) reviewed and agreed by team
